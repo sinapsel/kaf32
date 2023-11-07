@@ -1,0 +1,51 @@
+<div class="search-wrapper">
+	<input class="input" id="search-input" type="text" placeholder="{{ T "search_placeholder" }}" style="width: 95%;">
+	<div class="searchResults">
+		<div id="searchResult"></div>
+	</div>
+</div>
+<script>
+    var dataJSON = null;
+
+	const getPostsJSON = async () => {
+        if (dataJSON) {
+            return dataJSON;
+        }
+		let response = await fetch('/{{ .Lang }}/map.js');
+		let data = await response.json();
+		return data;
+	}
+
+	const filterPostsJSON = (query, element) => 
+	{
+		let result, itemsWithElement;
+        if (!query || query.length <= 2) {
+            element.innerHTML = '';
+            return;
+        }
+		query = new RegExp(query, 'ig');
+		result = dataJSON.filter(item => query.test(item.title) | query.test(item.plain)).slice(0,5);
+		itemsWithElement = result.map(item => (
+			`<div class="search-result-item">
+				<a href="${item.url}">
+					${item.parent} &gt; ${item.title}
+					<span class="icon">
+						<i class="fas fa-external-link-alt"></i>
+					</span>
+				</a>
+			</div>`
+		));
+		element.style.display = 'block';
+		element.innerHTML = itemsWithElement.join('');
+	}
+
+	const searchInputAction = (event, callback) => 
+	{
+		let searchInput = document.querySelector('#search-input');
+		searchInput.addEventListener(event, callback);
+	}
+
+	searchInputAction('focus', () => getPostsJSON().then(data => dataJSON = data))
+	searchInputAction('keyup', (event) => filterPostsJSON(event.target.value, searchResult))
+
+</script>

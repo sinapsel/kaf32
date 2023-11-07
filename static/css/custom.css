@@ -1,0 +1,11 @@
+@media screen and (min-width: 767px) {
+    .hide-on-big {
+        display:none;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .hide-on-small {
+        display:none;
+    }
+}

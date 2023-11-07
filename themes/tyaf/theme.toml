@@ -1,0 +1,9 @@
+name = "Tyaf"
+license = "GPLv2"
+description = "Based on Mainroad by vimux"
+tags = ["blog", "responsive", "light", "multilingual", "customizable", "widgets", "wordpress"]
+features = ["blog", "responsive", "multilingual", "widgets", "rss", "disqus", "google analytics", "wordpress"]
+min_version = "0.48"
+
+[author]
+  name = "Sinapsel"

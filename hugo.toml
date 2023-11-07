@@ -1,0 +1,170 @@
+baseURL = '/'
+languageCode = 'ru'
+lagnuageLang = 'ru'
+title = 'Theoretical Physics Department | NRNU MEPhI'
+themesDir = "themes"
+# theme = "hugo-whisper-theme"
+theme = "tyaf"
+# theme = "mainroad"
+# theme = "hulga"
+paginate = "3" # Number of posts per page
+
+
+# sectionPagesMenu = 'main'
+
+
+
+# [Author] # Used in authorbox
+#   name = "Администрация"
+#   avatar = "img/avatar.png"
+
+[Params]
+  description = "Кафедра (№32) Теоретической ядерной физики НИЯУ МИФИ" # Site description. Used in meta description
+  mainSections = ['posts']
+  # copyright = "Кафедра (№32) Теоретической ядерной физики НИЯУ МИФИ" # Footer copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  schema = true # Enable Schema
+  # twitter_cards = true # Enable Twitter Cards if true
+  readmore = true # Show "Read more" button in list if true
+  authorbox = false # Show authorbox at bottom of pages if true
+  toc = true # Enable Table of Contents
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  post_meta = ["categories", "date"] # Order of post meta information
+
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  # customJS = ["js/custom.js"] # Include custom JS files
+
+[Params.author]
+  name = "Администрация"
+
+[Params.sidebar]
+  home = "left"
+  list = "left"
+  single = "left"
+  widgets = ["sidemenu", "categories", "internal_search"]
+  # widgets = ["sidemenu", "categories", "taglist", "recent", "search"]
+
+[Params.widgets]
+  categories_counter=true
+
+
+[permalinks]
+  posts = '/:year/:month/:day/:title/'
+
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  # home = ["HTML", "RSS", "JSON", "PRINT", "SEARCH"]
+
+
+IsMultiLingual = true
+defaultContentLanguage = 'ru'
+DefaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.ru]
+    contentDir = 'content/'
+    disabled = false
+    languageCode = 'ru-RU'
+    languageDirection = 'ltr'
+    languageName = 'Russian'
+    title = 'Кафедра теоретической ядерной физики'
+    weight = 1
+    [languages.ru.Params.logo]
+      image = "logo.png" # Logo image. Path relative to "static"
+      title = "Кафедра Теоретической ядерной физики" # Logo title, otherwise will use site title
+      subtitle = "НИЯУ МИФИ" # Logo subtitle
+    [languages.ru.Params]
+      copyright = "Кафедра (№32) Теоретической ядерной физики НИЯУ МИФИ" # Footer copyright holder, otherwise will use site title
+      dateformat = "02.01.2006"
+
+    # [[languages.ru.menu.main]]
+    #   name = "Сотрудники"
+    #   url = "/ru/staff/"
+    #   weight = 10
+    [[languages.ru.menu.side]]
+      name = "Главная"
+      url = "/ru/"
+      weight = 10
+    [[languages.ru.menu.side]]
+      name = "Сотрудники"
+      url = "/ru/staff/list"
+      weight = 20
+    [[languages.ru.menu.side]]
+      name = "Научные группы"
+      url = "/ru/scientific_groups"
+      weight = 30
+    [[languages.ru.menu.side]]
+      name = "Учебные курсы"
+      url = "/ru/study_courses"
+      weight = 35
+    [[languages.ru.menu.side]]
+      name = "История кафедры"
+      url = "/ru/history"
+      weight = 40
+    [[languages.ru.menu.side]]
+      name = "Кафедра на YouTube"
+      url = "https://www.youtube.com/@user-ud7sq2nb2b"
+      weight = 50
+    [[languages.ru.menu.side]]
+      name = "Контакты"
+      url = "/ru/contacts"
+      weight = 55
+  [languages.en]
+    contentDir = 'content/'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Theoretical Physics Department'
+    weight = 2
+
+    [languages.en.Params.logo]
+      image = "logo.png" # Logo image. Path relative to "static"
+      title = "Department of Theoretical Nuclear Physics" # Logo title, otherwise will use site title
+      subtitle = "NRNU MEPhI" # Logo subtitle
+    [languages.en.Params]
+      copyright = "Department of Theoretical Nuclear Physics (#32) NRNU MEPhI" # Footer copyright holder, otherwise will use site title
+      dateformat = "2006-01-02"
+
+    # [[languages.en.menu.main]]
+    #   name = "Staff"
+    #   url = "/staff/"
+    #   weight = 10
+    [[languages.en.menu.side]]
+      name = "Home"
+      url = "/"
+      weight = 10
+    [[languages.en.menu.side]]
+      name = "Staff"
+      url = "/staff/list"
+      weight = 20
+    [[languages.en.menu.side]]
+      name = "Scientific groups"
+      url = "/scientific_groups"
+      weight = 30
+    [[languages.en.menu.side]]
+      name = "Study courses"
+      url = "/study_courses"
+      weight = 35
+    [[languages.en.menu.side]]
+      name = "Department history"
+      url = "/history"
+      weight = 40
+    [[languages.en.menu.side]]
+      name = "Department's YouTube"
+      url = "https://www.youtube.com/@user-ud7sq2nb2b"
+      weight = 50
+    [[languages.en.menu.side]]
+      name = "Contacts"
+      url = "/contacts"
+      weight = 55
