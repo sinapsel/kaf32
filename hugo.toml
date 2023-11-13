@@ -53,7 +53,7 @@ paginate = "3" # Number of posts per page
 
 
 [permalinks]
-  posts = '/:year/:month/:day/:title/'
+  posts = '/:year/:month/:day/:slug/'
 
 
 [taxonomies]
