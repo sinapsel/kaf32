@@ -28,11 +28,16 @@ draft = false
 - Теория поля
 - Теория сверхсильных полей
 - Статистическая физика 
-- Современные проблемы теоретической физики
-- Физика экстремальных световых полей и лазерной плазмы
+- Современная геометрия
+- Топологические методы в физике
+
+*Научные интересы*:	
+- Теоретическая физика
+- КЭД и сильные поля
+- лазеры сверхвысокой интенсивности
 
 **Данные о результатах научной и педагогической деятельности**:	
-- [Scholar Google](https://scholar.google.com/citations?user=C5_mUIIAAAAJ&hl=ru&oi=sra)
+- [Scholar Google](https://scholar.google.com/citations?hl=ru&user=LLaBL-EAAAAJ)
 - [WoS ResearcherID: L-4315-2016](https://www.webofscience.com/wos/author/record/L-4315-2016)
 - [Scopus Author ID: 15061093500](https://www.scopus.com/authid/detail.uri?authorId=15061093500)
 - [ORCID: 0000-0001-6182-516X](https://orcid.org/0000-0001-6182-516X)
