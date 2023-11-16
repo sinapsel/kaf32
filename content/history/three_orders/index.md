@@ -1,7 +1,7 @@
 +++
 title = 'Три приказа'
 date = 2020-09-09T21:54:39+03:00
-draft = false
+draft = true
 categories = ['history']
 toc = false
 +++
