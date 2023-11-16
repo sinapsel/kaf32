@@ -77,6 +77,17 @@ draft = false
 </tr>
 <tr valign="bottom">
 <td style="border: none; padding: 0in;" width="266" height="13">
+<p class="western" style="orphans: 0; widows: 0;" align="left"><a href="../kondratiev">Кондратьев Кирилл Александрович</p>
+</td>
+<td style="border: none; padding: 0in;" width="80">
+<p class="western" style="orphans: 0; widows: 0;" align="left">&nbsp;</p>
+</td>
+<td style="border: none; padding: 0in;" width="254">
+<p class="western" style="orphans: 0; widows: 0;" align="left">ассистент</p>
+</td>
+</tr>
+<tr valign="bottom">
+<td style="border: none; padding: 0in;" width="266" height="13">
 <p class="western" style="orphans: 0; widows: 0;" align="left">Корнеев Филипп Александрович</p>
 </td>
 <td style="border: none; padding: 0in;" width="80">
@@ -305,7 +316,7 @@ draft = false
 <p class="western" style="orphans: 0; widows: 0;" align="left">профессор РАН, Московский физико-технический институт</p>
 </td>
 </tr>
-<tr valign="top">
+<!-- <tr valign="top">
 <td style="border: none; padding: 0in;" width="266" height="13">
 <p class="western" style="orphans: 0; widows: 0;" align="left">Кондратьев Кирилл Александрович</p>
 </td>
@@ -318,7 +329,7 @@ draft = false
 <td style="border: none; padding: 0in;" width="167">
 <p class="western" style="orphans: 0; widows: 0;" align="left">ВНИИ автоматики им. Н.Л. Духова</p>
 </td>
-</tr>
+</tr> -->
 <tr valign="top">
 <td style="border: none; padding: 0in;" width="266" height="13">
 <p class="western" style="orphans: 0; widows: 0;" align="left">Левченко Вадим Дмитриевич</p>
