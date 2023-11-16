@@ -1,7 +1,10 @@
 baseURL = '/'
 languageCode = 'ru'
 lagnuageLang = 'ru'
-title = 'Theoretical Physics Department | NRNU MEPhI'
+defaultcontentlanguage = 'ru'
+i18ndir = 'i18n'
+languagecode = 'ru-RU'
+# title = 'Theoretical Physics Department | NRNU MEPhI'
 themesDir = "themes"
 # theme = "hugo-whisper-theme"
 theme = "tyaf"
@@ -66,9 +69,9 @@ paginate = "3" # Number of posts per page
   # home = ["HTML", "RSS", "JSON", "PRINT", "SEARCH"]
 
 
-IsMultiLingual = true
-defaultContentLanguage = 'ru'
-DefaultContentLanguageInSubdir = false
+# IsMultiLingual = true
+# DefaultContentLanguage = 'ru'
+# DefaultContentLanguageInSubdir = false
 
 [languages]
   [languages.ru]
@@ -93,23 +96,23 @@ DefaultContentLanguageInSubdir = false
     #   weight = 10
     [[languages.ru.menu.side]]
       name = "Главная"
-      url = "/ru/"
+      url = "/"
       weight = 10
     [[languages.ru.menu.side]]
       name = "Сотрудники"
-      url = "/ru/staff/list"
+      url = "/staff/list"
       weight = 20
     [[languages.ru.menu.side]]
       name = "Научные группы"
-      url = "/ru/scientific_groups"
+      url = "/scientific_groups"
       weight = 30
     [[languages.ru.menu.side]]
       name = "Учебные курсы"
-      url = "/ru/study_courses"
+      url = "/study_courses"
       weight = 35
     [[languages.ru.menu.side]]
       name = "История кафедры"
-      url = "/ru/history"
+      url = "/history"
       weight = 40
     [[languages.ru.menu.side]]
       name = "Кафедра на YouTube"
@@ -117,7 +120,7 @@ DefaultContentLanguageInSubdir = false
       weight = 50
     [[languages.ru.menu.side]]
       name = "Контакты"
-      url = "/ru/contacts"
+      url = "/contacts"
       weight = 55
   [languages.en]
     contentDir = 'content/'
@@ -142,23 +145,23 @@ DefaultContentLanguageInSubdir = false
     #   weight = 10
     [[languages.en.menu.side]]
       name = "Home"
-      url = "/"
+      url = "/en/"
       weight = 10
     [[languages.en.menu.side]]
       name = "Staff"
-      url = "/staff/list"
+      url = "/en/staff/list"
       weight = 20
     [[languages.en.menu.side]]
       name = "Scientific groups"
-      url = "/scientific_groups"
+      url = "/en/scientific_groups"
       weight = 30
     [[languages.en.menu.side]]
       name = "Study courses"
-      url = "/study_courses"
+      url = "/en/study_courses"
       weight = 35
     [[languages.en.menu.side]]
       name = "Department history"
-      url = "/history"
+      url = "/en/history"
       weight = 40
     [[languages.en.menu.side]]
       name = "Department's YouTube"
@@ -166,5 +169,5 @@ DefaultContentLanguageInSubdir = false
       weight = 50
     [[languages.en.menu.side]]
       name = "Contacts"
-      url = "/contacts"
+      url = "/en/contacts"
       weight = 55
