@@ -25,7 +25,7 @@ draft = false
 </tr>
 <tr valign="bottom">
 <td style="border: none; padding: 0in;" width="266" height="16">
-<p class="western" style="orphans: 0; widows: 0;" align="left">Воронова Нина Сергеевна</p>
+<p class="western" style="orphans: 0; widows: 0;" align="left"><a href="../voronova">Воронова Нина Сергеевна</a></p>
 </td>
 <td style="border: none; padding: 0in;" width="80">
 <p class="western" style="orphans: 0; widows: 0;" align="left">к.ф-м.н.</p>
@@ -187,7 +187,7 @@ draft = false
 </tr>
 <tr valign="bottom">
 <td style="border: none; padding: 0in;" width="266" height="13">
-<p class="western" style="orphans: 0; widows: 0;" align="left">Федотов Александр Михайлович</p>
+<p class="western" style="orphans: 0; widows: 0;" align="left"><a href="../fedotov">Федотов Александр Михайлович</a></p>
 </td>
 <td style="border: none; padding: 0in;" width="80">
 <p class="western" style="orphans: 0; widows: 0;" align="left">к.ф-м.н.</p>
