@@ -4,6 +4,9 @@ date = 2020-09-09T21:52:39+03:00
 draft = false
 categories = ['history']
 toc = false
+summary = '''
+Афанасьев А.М., Балдин А.М., Басов Н.Г., Белавин А.А., Галицкий В.М., Григоренко Л.В., Горьков Л.П., Каган М.Ю., Каган Ю.М. и другие
+'''
 +++
 
 {{< rawhtml >}}
@@ -153,6 +156,37 @@ toc = false
 </td>
 <td valign="top">
 <p><a href="http://ufn.ru/ru/articles/1981/5/g/" target="_blank" rel="noopener noreferrer">Галицкий В.М</a>., чл.-корр. АН СССР, выпускник 1949 г.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+<table class="contentpaneopen">
+<tbody>
+<tr>
+<td class="contentheading" width="100%">
+<h4>Григоренко Л.В.</h4>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="contentpaneopen">
+<tbody>
+<tr>
+<td colspan="2" valign="top">
+<table border="0">
+<tbody>
+<tr>
+<td>
+<p style="text-align: left;"><img src="grigorenko.jpg" width="200" border="0" /></p>
+</td>
+<td valign="top">
+<p><a href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" target="_blank" rel="noopener noreferrer">Григоренко Л.В.</a>, чл.-корр. РАН, выпускник 1993 г.</p>
 </td>
 </tr>
 </tbody>
@@ -369,7 +403,7 @@ toc = false
 <p style="text-align: left;"><img src="neznamov.jpg" width="200" border="0" /></p>
 </td>
 <td valign="top">
-<p><a href="http://www.ras.ru/win/db/show_per.asp?P=.id-61972.ln-ru">Незнамов В.П.</a>, член-корреспондент РАН, <br />выпускник 1968 г.</p>
+<p><a href="http://www.ras.ru/win/db/show_per.asp?P=.id-61972.ln-ru">Незнамов В.П.</a>, академик РАН, <br />выпускник 1968 г.</p>
 </td>
 </tr>
 </tbody>
@@ -431,7 +465,7 @@ toc = false
 <p style="text-align: left;"><img src="rykovanov.jpg" width="200" border="0" /></p>
 </td>
 <td valign="top">
-<p><a href="http://viperson.ru/wind.php?ID=197036" target="_blank" rel="noopener noreferrer">Рыкованов Г.Н.</a>, чл.-корр. РАН, выпускник 1977 г.</p>
+<p><a href="http://viperson.ru/wind.php?ID=197036" target="_blank" rel="noopener noreferrer">Рыкованов Г.Н.</a>, академик РАН, выпускник 1977 г.</p>
 </td>
 </tr>
 </tbody>
