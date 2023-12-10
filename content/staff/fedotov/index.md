@@ -44,4 +44,4 @@ draft = false
 - [РИНЦ](https://www.elibrary.ru/author_profile.asp?id=35477)
 
 
-[*Персональная страница научно-педагогического работника НИЯУ МИФИ*](https://home.mephi.ru/ru/users/622/public)
+[*Персональная страница научно-педагогического работника НИЯУ МИФИ*](https://home.mephi.ru/ru/users/4250/public)
