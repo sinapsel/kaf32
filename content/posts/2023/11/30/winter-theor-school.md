@@ -123,6 +123,23 @@ Welcome party
 *14:10* {{< rawhtml >}} <br/> {{</ rawhtml >}}
 Круглый стол. Закрытие школы
 
+#### Место проведения
+**НИЯУ <<МИФИ>>, корпус НЛК, 3 этаж, ауд. 3.68**
+
+
+*115409, Москва, Каширское шоссе, 31 (31с88)* {{< rawhtml >}} <br/> {{</ rawhtml >}}
+от станции метро Каширская следуют автобусы е85, м86, м83, 541, 770, 899, с838 до автобусной остановки "МИФИ"
+
+
+> Внимание! 
+> 
+> Для лиц, не являющихся сотрудниками или студентами <<НИЯУ МИФИ>>, проход на территорию университета осуществляется строго по паспорту через бюро пропусков на проходной
+
+{{< rawhtml >}} 
+<div style="position:relative;overflow:hidden;"><a href="https://yandex.ru/maps/213/moscow/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Москва</a><a href="https://yandex.ru/maps/213/moscow/?ll=37.665284%2C55.650560&mode=usermaps&source=constructorLink&um=constructor%3A24f9fb016af0797148b880ccf08b5742fed9f35c8c83acff8c3c52cbfd0a3c9f&utm_medium=mapframe&utm_source=maps&z=17" style="color:#eee;font-size:12px;position:absolute;top:14px;">Яндекс Карты — транспорт, навигация, поиск мест</a><iframe src="https://yandex.ru/map-widget/v1/?ll=37.665284%2C55.650560&mode=usermaps&source=constructorLink&um=constructor%3A24f9fb016af0797148b880ccf08b5742fed9f35c8c83acff8c3c52cbfd0a3c9f&z=17" width="560" height="420" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe></div>
+{{</ rawhtml >}}
+
+
 {{< rawhtml >}} <br/> {{</ rawhtml >}}{{< rawhtml >}} <br/> {{</ rawhtml >}}{{< rawhtml >}} <br/> {{</ rawhtml >}}
 #### Форма регистрации
  {{< rawhtml >}} 
