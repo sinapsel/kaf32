@@ -127,7 +127,7 @@ Welcome party
 **НИЯУ <<МИФИ>>, корпус НЛК, 3 этаж, ауд. 3.68**
 
 
-*115409, Москва, Каширское шоссе, 31 (31с88)* {{< rawhtml >}} <br/> {{</ rawhtml >}}
+*115409, Москва, Каширское шоссе, 31* {{< rawhtml >}} <br/> {{</ rawhtml >}}
 от станции метро Каширская следуют автобусы е85, м86, м83, 541, 770, 899, с838 до автобусной остановки "МИФИ"
 
 
@@ -136,7 +136,12 @@ Welcome party
 > Для лиц, не являющихся сотрудниками или студентами <<НИЯУ МИФИ>>, проход на территорию университета осуществляется строго по паспорту через бюро пропусков на проходной
 
 {{< rawhtml >}} 
-<div style="position:relative;overflow:hidden;"><a href="https://yandex.ru/maps/213/moscow/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Москва</a><a href="https://yandex.ru/maps/213/moscow/?ll=37.665284%2C55.650560&mode=usermaps&source=constructorLink&um=constructor%3A24f9fb016af0797148b880ccf08b5742fed9f35c8c83acff8c3c52cbfd0a3c9f&utm_medium=mapframe&utm_source=maps&z=17" style="color:#eee;font-size:12px;position:absolute;top:14px;">Яндекс Карты — транспорт, навигация, поиск мест</a><iframe src="https://yandex.ru/map-widget/v1/?ll=37.665284%2C55.650560&mode=usermaps&source=constructorLink&um=constructor%3A24f9fb016af0797148b880ccf08b5742fed9f35c8c83acff8c3c52cbfd0a3c9f&z=17" width="560" height="420" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe></div>
+<div style="position:relative;overflow:hidden;"><a href="https://yandex.ru/maps/213/moscow/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Москва</a><a href="https://yandex.ru/maps/213/moscow/?ll=37.665284%2C55.650560&mode=usermaps&source=constructorLink&um=constructor%3A24f9fb016af0797148b880ccf08b5742fed9f35c8c83acff8c3c52cbfd0a3c9f&utm_medium=mapframe&utm_source=maps&z=17" style="color:#eee;font-size:12px;position:absolute;top:14px;">Яндекс Карты — транспорт, навигация, поиск мест</a><iframe src="https://yandex.ru/map-widget/v1/?ll=37.665284%2C55.650560&mode=usermaps&source=constructorLink&um=constructor%3A24f9fb016af0797148b880ccf08b5742fed9f35c8c83acff8c3c52cbfd0a3c9f&z=17" width="560" height="420" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe></div> <br/>
+{{</ rawhtml >}}
+
+Схема проезда от гостиницы "МИФИ" *(115522, Москва, Пролетарский пр., д. 8, к. 2)*:
+{{< rawhtml >}} 
+<div style="position:relative;overflow:hidden;"><a href="https://yandex.ru/maps/213/moscow/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Москва</a><a href="https://yandex.ru/maps/213/moscow/?ll=37.660436%2C55.647484&mode=routes&rtext=55.646025%2C37.654879~55.649885%2C37.664355&rtn=1&rtt=mt&ruri=ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgg1NjY1MjM2ORJL0KDQvtGB0YHQuNGPLCDQnNC-0YHQutCy0LAsINCf0YDQvtC70LXRgtCw0YDRgdC60LjQuSDQv9GA0L7RgdC_0LXQutGCLCA40LoyIgoNmJ4WQhWIlV5C~ymapsbm1%3A%2F%2Forg%3Foid%3D1183082636&utm_medium=mapframe&utm_source=maps&z=16.24" style="color:#eee;font-size:12px;position:absolute;top:14px;">Яндекс Карты</a><iframe src="https://yandex.ru/map-widget/v1/?ll=37.660436%2C55.647484&mode=routes&rtext=55.646025%2C37.654879~55.649885%2C37.664355&rtn=1&rtt=mt&ruri=ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgg1NjY1MjM2ORJL0KDQvtGB0YHQuNGPLCDQnNC-0YHQutCy0LAsINCf0YDQvtC70LXRgtCw0YDRgdC60LjQuSDQv9GA0L7RgdC_0LXQutGCLCA40LoyIgoNmJ4WQhWIlV5C~ymapsbm1%3A%2F%2Forg%3Foid%3D1183082636&z=16.24" width="560" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe></div>
 {{</ rawhtml >}}
 
 
