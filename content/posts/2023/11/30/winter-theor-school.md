@@ -3,10 +3,8 @@ slug='winter-theor-school'
 title = 'Зимняя школа НИЯУ МИФИ по теоретической физике'
 date = 2023-11-30T14:00:00+03:00
 draft = false
-categories = ['news']
+categories = ['news', 'confs']
 toc = false
-favorite = true
-weight=1
 +++
 
 Зимняя школа НИЯУ МИФИ по теоретической физике **21–23 декабря 2023 года**
